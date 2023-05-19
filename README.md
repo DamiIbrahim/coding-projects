@@ -10,7 +10,8 @@ The pairwise python program is a program that my lab partners and I (Shivani Rao
 developed in our research lab that returns a pairwise correlation matrix of all cell adhesion cadherin/protocadherin genes 
 based on their pearson correlation coefficient. In addition, it also returns the pairs that reject the null hypothesis
 which is when the pearson coefficient is greater than or equal to the critical r value based on the level of significance. 
-A user can input the level of  significance of their choice and also change the tsv file to a dataset of their choice.
+A user can input the level of significance of their choice and also change the tsv file to a dataset of their choice.
+In our research, we split the dataset found from the Human Protein Atlas into three different cell types-Neural, Enodthelial, and Epithetlial-and used the 0.05 level of significance. 
 
 The DAG python notebook finds the longest path between two nodes in an edge-weighted directed acyclic graph given an adjaceny list
 This program is based off problem 15 Rosalind "Find the Longest Path in a DAG". 
