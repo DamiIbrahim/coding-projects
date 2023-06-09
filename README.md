@@ -1,4 +1,4 @@
-# coding-projects
+# Coding Projects
 A few coding projects I have worked on during my time as an undergraduate at the University of California, Santa Cruz. 
 
 In the correlationMatrix folder contains the pairwise python program that my lab partners and I (Shivani Rao & Arshia Kapil) 
