@@ -6,7 +6,7 @@ developed in our research lab that returns a pairwise correlation matrix of all 
 based on their pearson correlation coefficient. In addition, it also returns the pairs that reject the null hypothesis
 which is when the pearson coefficient is greater than or equal to the critical r value based on the level of significance. 
 A user can input the level of significance of their choice and also change the tsv file to a dataset of their choice.
-In our research, we split the dataset found from the Human Protein Atlas into three different cell types-Neural, Enodthelial, and Epithetlial-and used the 0.05 level of significance. 
+In our research, we split the dataset found from the Human Protein Atlas into three different cell types-Neural, Endothelial, and Epithetlial-and used the 0.05 level of significance. 
 
 In the mappingAlgorith folder contains the simpleMap python program creates a basic seed and extend mapping algorithm for aligning short query strings to a larger target string. Additionally, it clusters seeds to determine probable alignments and finds the optimal
 local alignment between two strings. Also contains a fasta and fastq file for testing.
